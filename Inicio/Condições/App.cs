@@ -9,6 +9,5 @@ class App{
         }else{
             System.Console.WriteLine("{0} não é igual 10", num);
         }
-
     }
 }
