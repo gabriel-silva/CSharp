@@ -16,6 +16,5 @@ class App{
                 System.Console.WriteLine("{0} não é igual a nenhuma das opções", num);
             break;
         }
-
     }
 }
