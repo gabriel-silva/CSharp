@@ -24,5 +24,6 @@ public class App : View1, View2{
 
         View2 view2 = new App();
         view2.interface2();
+        
     }
 }
